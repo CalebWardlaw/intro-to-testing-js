@@ -7,6 +7,7 @@ const helloWorld = function(){
     return "Hello, World!";
 };
 
-//testing saving to github
-//testing 2
+function sayHello(name){
+    return ("Hello " + name);
+}
 
